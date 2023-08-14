@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)
+![MasterHead]([https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif](https://camo.githubusercontent.com/e46a2aa574476e081ce7ddeee2e8a0b30a624d0afcc978c7e8a31cae01ddccf9/68747470733a2f2f6d656469612e74656e6f722e636f6d2f636d34437773496b61754941414141432f68617362756c6c612d6472696e6b696e672e676966))
 <h1 align="center">Hi 👋, I'm Osman Kok</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 <img align ="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
