@@ -1,4 +1,4 @@
-![MasterHead]([https://i.gifer.com/2vs0.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fincredibles&psig=AOvVaw0gdvRlbUkdI4ZL7pGaw5Zb&ust=1694080740194000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiWzNfclYEDFQAAAAAdAAAAABAE))
+![MasterHead](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)
 <h1 align="center">Hi 👋, I'm Osman Kok</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 <img align ="right" width="200" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
