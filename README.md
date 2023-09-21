@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osman Kok</h1>
+<h1 align="center">Hi 👋, I'm Osman</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ookokk&label=Profile%20views&color=0e75b6&style=flat" alt="ookokk" /> </p>
