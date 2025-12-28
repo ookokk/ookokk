@@ -2,9 +2,6 @@
 
 <table>
   <tr>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ookokk&show_icons=true&locale=en&layout=compact" alt="ookokk" />
-    </td>
     <td align="right">
       <img src="https://komarev.com/ghpvc/?username=ookokk&label=Profile%20views&color=0e75b6&style=flat" alt="ookokk" />
     </td>
